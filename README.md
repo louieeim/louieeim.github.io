@@ -68,7 +68,7 @@ Connecting with me is easy and can be done through multiple channels to suit you
 
 [GitHub](https://github.com/louieeim)
 
-[Discord]([https://www.linkedin.com/in/kiarahuertas28/](https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscordapp.com%2Fusers%2F301734829555449856%3Ffbclid%3DIwAR2SaL-GyoLOpxLmpBdsPgc246_uUNKhQz-DDLNFfJarmPmlMph3AEbqsZg&h=AT1n0Lb_o8QPEJS_Mp2ciHiF12pVktoFu4FARbIqr4T3ThmlG8ZktBRMJ_79RI3U6jNPypOPYvbKGHAuj9nFglu2LB3QRTx9ME7PL9WXc18E5buG5hXyylrzxyyQPAmAML1T3EdBy1lsAkw))
+[Discord]([https://www.linkedin.com/in/kiarahuertas28/](https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscordapp.com%2Fusers%2F301734829555449856%3Ffbclid%3DIwAR2SaL-GyoLOpxLmpBdsPgc246_uUNKhQz-DDLNFfJarmPmlMph3AEbqsZg&h=AT1n0Lb_o8QPEJS_Mp2ciHiF12pVktoFu4FARbIqr4T3ThmlG8ZktBRMJ_79RI3U6jNPypOPYvbKGHAuj9nFglu2LB3QRTx9ME7PL9WXc18E5buG5hXyylrzxyyQPAmAML1T3EdBy1lsAkw)
 
 For any immediate inquiries or discussions, please feel free to use the email channel for a faster response. I look forward to connecting with you and exploring how we can work together.
 
