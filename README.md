@@ -62,17 +62,13 @@ https://colorlib.com
 ## Contact
 Connecting with me is easy and can be done through multiple channels to suit your preference. I am open to discussing job opportunities, collaboration on projects, or even just to share insights and ideas within the tech community. Here are the best ways to reach me:
 
-Email
-louisehuertas88@gmail.com
+[GMail](louisehuertas88@gmail.com)
 
-LinkedIn
-[Connect with me on LinkedIn for professional networking, updates on my latest projects, and more.](https://www.linkedin.com/in/kiarahuertas28/)
+[LinkedIn](https://www.linkedin.com/in/kiarahuertas28/)
 
-GitHub
-[To see my contributions to open-source projects or to collaborate on GitHub, visit my profile: GitHub.](https://github.com/louieeim)
+[GitHub](https://github.com/louieeim)
 
-Discord
-https://shorturl.at/bdsJ1
+[Discord]([https://www.linkedin.com/in/kiarahuertas28/](https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscordapp.com%2Fusers%2F301734829555449856%3Ffbclid%3DIwAR2SaL-GyoLOpxLmpBdsPgc246_uUNKhQz-DDLNFfJarmPmlMph3AEbqsZg&h=AT1n0Lb_o8QPEJS_Mp2ciHiF12pVktoFu4FARbIqr4T3ThmlG8ZktBRMJ_79RI3U6jNPypOPYvbKGHAuj9nFglu2LB3QRTx9ME7PL9WXc18E5buG5hXyylrzxyyQPAmAML1T3EdBy1lsAkw))
 
 For any immediate inquiries or discussions, please feel free to use the email channel for a faster response. I look forward to connecting with you and exploring how we can work together.
 
