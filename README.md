@@ -32,12 +32,14 @@ For the public, you can easily access my portfolio through the link provided abo
 As for the developers and/or contributors, you can use one of these methods: 
 - Git: Familiarity with Git for cloning the repository and managing version control.
 
-  ```git
+```git
+  
 bash
 Copy code
 git clone https://github.com/username/repository-name.git
 cd repository
 
+```
 - Web Technologies: Basic understanding of HTML, CSS, and JavaScript if you plan to modify or enhance the website.
 - Text Editor: Any text editor or IDE of your choice for editing the website's code (e.g., VS Code, Sublime Text, Atom).
 
