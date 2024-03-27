@@ -169,7 +169,7 @@ img {
   border-style: none; }
 
 svg {
-  overflow: hidden;
+  overflow: auto;
   vertical-align: middle; }
 
 table {
