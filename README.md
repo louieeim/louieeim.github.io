@@ -47,7 +47,8 @@ Access my portfolio easily through the provided link.
 
 *   **Git**: Familiarity with Git for cloning the repository and managing version control.
     
-    bashCopy code
+    bash
+    Copy code
     
     `git clone https://github.com/username/repository-name.git cd repository`
     
@@ -56,7 +57,8 @@ Access my portfolio easily through the provided link.
 
 ### Contribution Steps
 
-markdownCopy code
+markdown
+Copy code
 
 ``1. Fork the project 2. Create your feature branch (`git checkout -b feature/AmazingFeature`) 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`) 4. Push to the branch (`git push origin feature/AmazingFeature`) 5. Open a pull request``
 
