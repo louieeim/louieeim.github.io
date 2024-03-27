@@ -15,7 +15,7 @@ Getting Started
 
 Navigating through Kiara's professional portfolio is straightforward and intuitive, designed to provide you with a seamless and informative experience.
 
-### Exploring the Portfolio
+### Exploring the CV/Portfolio
 
 *   **Home Page**: A brief introduction to me and my work.
 *   **About Me**: Get to know more about who I am, both professionally and personally.
