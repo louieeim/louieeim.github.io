@@ -1,86 +1,69 @@
- AOS.init({
- 	duration: 800,
- 	easing: 'slide'
- });
+AOS.init({
+    duration: 800,
+    easing: 'slide'
+});
 
 (function($) {
 
-	"use strict";
+    "use strict";
 
-	$(window).stellar({
-    responsive: true,
-    parallaxBackgrounds: true,
-    parallaxElements: true,
-    horizontalScrolling: true,
-    hideDistantElements: false,
-    scrollProperty: 'scroll'
-  });
+    // Initialize Stellar for parallax but ensure mobile scrolling isn't affected
+    $(window).stellar({
+        responsive: true,
+        parallaxBackgrounds: true,
+        parallaxElements: true,
+        horizontalScrolling: false, // Changed to false to avoid forcing horizontal scroll
+        hideDistantElements: false,
+        scrollProperty: 'scroll'
+    });
 
+    var fullHeight = function() {
+        // Adjust full height function to be more mobile-friendly
+        $('.js-fullheight').css('height', window.innerHeight);
+        $(window).resize(function(){
+            $('.js-fullheight').css('height', window.innerHeight);
+        });
+    };
+    fullHeight();
 
-	var fullHeight = function() {
+    // Loader function to hide loader after content is loaded
+    var loader = function() {
+        setTimeout(function() { 
+            if($('#ftco-loader').length > 0) {
+                $('#ftco-loader').removeClass('show');
+            }
+        }, 1);
+    };
+    loader();
 
-		$('.js-fullheight').css('height', $(window).height());
-		$(window).resize(function(){
-			$('.js-fullheight').css('height', $(window).height());
-		});
+    // Initialize Scrollax
+    $.Scrollax();
 
-	};
-	fullHeight();
+    // Functionality for burger menu on mobile
+    var burgerMenu = function() {
+        $('body').on('click', '.js-fh5co-nav-toggle', function(event){
+            event.preventDefault();
 
-	// loader
-	var loader = function() {
-		setTimeout(function() { 
-			if($('#ftco-loader').length > 0) {
-				$('#ftco-loader').removeClass('show');
-			}
-		}, 1);
-	};
-	loader();
-
-	// Scrollax
-   $.Scrollax();
-
-
-
-   // Burger Menu
-	var burgerMenu = function() {
-
-		$('body').on('click', '.js-fh5co-nav-toggle', function(event){
-
-			event.preventDefault();
-
-			if ( $('#ftco-nav').is(':visible') ) {
-				$(this).removeClass('active');
-			} else {
-				$(this).addClass('active');	
-			}
-
-			
-			
-		});
-
-	};
-	burgerMenu();
+            if ($('#ftco-nav').is(':visible')) {
+                $(this).removeClass('active');
+            } else {
+                $(this).addClass('active');    
+            }
+        });
+    };
+    burgerMenu();
 
 
-	var onePageClick = function() {
+var onePageClick = function() {
+        $(document).on('click', '#ftco-nav a[href^="#"]', function (event) {
+            event.preventDefault();
 
-
-		$(document).on('click', '#ftco-nav a[href^="#"]', function (event) {
-	    event.preventDefault();
-
-	    var href = $.attr(this, 'href');
-
-	    $('html, body').animate({
-	        scrollTop: $($.attr(this, 'href')).offset().top - 70
-	    }, 500, function() {
-	    	// window.location.hash = href;
-	    });
-		});
-
-	};
-
-	onePageClick();
+            $('html, body').animate({
+                scrollTop: $($.attr(this, 'href')).offset().top - 70
+            }, 500);
+        });
+    };
+    onePageClick();
 	
 
 	var carousel = function() {
