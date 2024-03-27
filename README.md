@@ -30,11 +30,11 @@ Navigating through Kiara's professional portfolio is straightforward and intuiti
 
   ![Kiara's Portfolio](./images/navbar.png "navbar")
 
-*   **Download CV**: A "Download CV" button above the "Resume" page allows you to download a copy of my CV in PDF format, regularly updated to reflect my latest experiences and achievements.
+*   **Download CV**: A "Download CV" button on the "About Me" section of the home page allows you to download a copy of my CV in PDF format, regularly updated to reflect my latest experiences and achievements.
 
   ![Kiara's Portfolio](./images/download1.png "navbar")
     
-  ![Kiara's Portfolio](./images/download.png "navbar")
+  ![Kiara's Portfolio](./images/download2.png "navbar")
 
 Prerequisites
 -------------
