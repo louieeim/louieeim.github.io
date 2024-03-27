@@ -27,6 +27,9 @@ Navigating through Kiara's professional portfolio is straightforward and intuiti
 #### Additional Tips
 
 *   **Navigation Menu**: Use the navigation menu for quick access to different sections of the portfolio.
+
+  ![Kiara's Portfolio](./images/navbar.png "navbar")
+
 *   **Download CV**: A "Download CV" button above the "Resume" page allows you to download a copy of my CV in PDF format, regularly updated to reflect my latest experiences and achievements.
 
 Prerequisites
