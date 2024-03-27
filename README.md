@@ -70,7 +70,7 @@ Contact
 
 Connecting with me is easy and can be done through multiple channels:
 
-*   [**EMail**(louisehuertas88@gmail.com)
+*   [**GMail**](louisehuertas88@gmail.com)
 *   [**LinkedIn**](https://www.linkedin.com/in/kiarahuertas28/)
 *   [**GitHub**](https://l.facebook.com/l.php?u=https%3A%2F%2Flouieeim.github.io%2F%3Ffbclid%3DIwAR35W8w8D3O7bs-oAIIlJbW7Mqgx3UYhNF04HUFloT4LsjZ-VPUL8uPvg5I_aem_AR9wbmERU-q0DRN6BviLvFsaC1LGzoP9rU3DvjxDDZzuTMvk7lUcTMUY2VyVEMKrH4E3MGIaLyfbtjGHAdRv4PeK&h=AT1m5wg64eMiqU8BAA9hAQit1AIyc3lTMd7Bde4amOUkitu7PYUv2y4jtfzF4ZTQdgUBuxXvLtjvqAC3SDAEsDzjjTSNmyQSTOQUEexxkenXyfcHRxOglEHrEmP3GXBKo1N9UQ)
 *   [**Discord**](https://l.facebook.com/l.php?u=http%3A%2F%2Fdiscordapp.com%2Fusers%2F301734829555449856%3Ffbclid%3DIwAR0o8lE3r7dIgE3M2KPFxS8av-10fb7nq-moZqHMyuS5HXqz4hIQZUoxPFs_aem_AR9io3xko-_07Pv-aVfN94b8yiZ9CWDYbHQrGzr6NGkdXa1A6Be2TNJNw0-TU4s3IJeyK7nqVF1DPDT0lqV23Ikl&h=AT1m5wg64eMiqU8BAA9hAQit1AIyc3lTMd7Bde4amOUkitu7PYUv2y4jtfzF4ZTQdgUBuxXvLtjvqAC3SDAEsDzjjTSNmyQSTOQUEexxkenXyfcHRxOglEHrEmP3GXBKo1N9UQ)
